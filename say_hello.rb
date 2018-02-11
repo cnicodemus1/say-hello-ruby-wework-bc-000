@@ -1,3 +1,3 @@
 def greeting ("Kent Beck!")
-  puts "Hello #{name!}"
+  puts "Hello, #{name!}"
 end
